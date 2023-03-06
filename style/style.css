@@ -1,0 +1,148 @@
+body {
+	margin-left: 250px;
+	margin-top: 100px;
+}
+
+img {
+	width: 26%;
+
+
+
+}
+
+.name{
+
+	font-family: Montserrat;
+	font-size: 32px;
+	font-weight: 600
+}
+
+.proff{
+	margin-top: -16px;
+	margin-bottom: 40px;
+	font-family: Montserrat;
+	font-size: 20px;
+	color: grey;
+	font-weight: 400;
+
+
+}
+
+.description{
+	margin-top: -50px;
+	margin-bottom: 50px;
+	font-family: Montserrat;
+	font-size: 16px;
+
+}
+
+.second {
+
+}
+.serv {	
+	font-family: Montserrat;
+	font-size: 15px;
+
+
+}
+
+.services{
+	font-family: Montserrat;
+	font-size: 20px;
+
+
+}
+
+.chsq{
+	font-family: Montserrat;
+	font-size: 20px;
+}
+
+.contact {
+	margin-top: 15px;
+	font-weight: 600;
+	font-family: Montserrat;
+	font-size: 18px;
+}
+
+.namecontact {
+}
+
+
+
+.social {
+	font-family: Montserrat;
+	color: black;
+	font-size: 16px;
+
+
+}
+
+.ps {
+	margin-top: 40px;
+	font-family: Montserrat;
+	font-size: 12px;
+	color: grey;
+}
+
+.meme {
+	font-family: Montserrat;
+	width: 600px;
+
+}
+
+.meme-text {
+	font-style: italic;
+	margin-top: 20px;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+.meme-header {
+	font-weight: 600;
+	font-family: Montserrat;
+	font-size: 18px;
+
+}
+
+.meme-button {
+	margin-top: 20px;
+	font-size: 14px;
+	border: 1px solid grey;
+	width: 150px;
+	height: 35px;
+}
+
+.meme-button:hover {
+	background: #252525;
+	color: white;
+	transition: all 0.1s ease;
+}
+
+.meme-button:active {
+	border: none;
+	background: green;
+	content: "Enter";
+}
+
+@media (max-width: 600px) {
+	body {
+		margin-left: 10px;
+		margin-top: 25px;
+	}
+
+	.contact {
+		margin-top: 00px;
+	}
+
+	.description {
+		margin-top: 20px;
+	}
+
+	.meme {
+		margin-top: -20px;
+	}
+}
+
+
+
